@@ -1,2 +1,1 @@
-# AccessImportUtils
-various scripts to compress data for upload into Bionano Access
+Various scripts to compress data for upload into Bionano Access
