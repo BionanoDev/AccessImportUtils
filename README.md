@@ -4,9 +4,9 @@ compressHybridScaffold_forIrysView.sh is a tool for compressing a BioNano hybrid
 # Usage
 ./HS_old_output/compressHybridScaffold_forIrysView.sh --targetFolder <path/to/hybrid/scaffold/output> --outputFolder <path/to/compressFileOutput> --prefix <name_for_output_file> --manual <0/1>
 
-# Options
-*  -t/--targetFolder____Hybrid scaffold folder for compression (Required)
-*  -o/--outputFolder____Output folder (Required)
-*  -p/--prefix__________Prefix of the output *.tar.gz file
-*  -M/--manual__________Whether the hybrid scaffold result to be compressed is from manual cut (1) or not (0)
-*  -h/--help____________Display the help message
+### Options
+  -t/--targetFolder  Hybrid scaffold folder for compression (Required)  
+  -o/--outputFolder  Output folder (Required)  
+  -p/--prefix  Prefix of the output *.tar.gz file  
+  -M/--manual  Whether the hybrid scaffold result to be compressed is from manual cut (1) or not (0)  
+  -h/--help  Display the help message  
