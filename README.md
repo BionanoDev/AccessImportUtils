@@ -13,4 +13,4 @@ compressHybridScaffold_forIrysView.sh is a tool for compressing a BioNano hybrid
 
 
 ## Note
-[compressHybridScaffold_forIrysView.pdf](https://github.com/bionanogenomics/AccessImportUtils/blob/master/compressHybridScaffold_forIrysView.pdf) and compressDeNovo_forIrysView.pdf in the repository provide detailed instructions on how to utilize these scripts.
+[compressHybridScaffold_forIrysView.pdf](https://github.com/bionanogenomics/AccessImportUtils/blob/master/compressHybridScaffold_forIrysView.pdf) and [compressDeNovo_forIrysView.pdf]() in the repository provide detailed instructions on how to utilize these scripts.
